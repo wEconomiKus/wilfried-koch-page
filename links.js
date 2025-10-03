@@ -63,7 +63,8 @@ const links =
 	researchgate:	"https://www.researchgate.net/profile/Wilfried-Koch-2",
 	github:			"https://github.com/wEconomiKus",
 	github_wPlot2D:	"https://github.com/wEconomiKus/wPlot2D",
-	itch:			"https://wEconomiKus.itch.io"
+	itch:			"https://wEconomiKus.itch.io",
+	itch_wPlotd2D:	"https://weconomikus.itch.io/wplot2d"
 }
 
 function applyLinks( )
