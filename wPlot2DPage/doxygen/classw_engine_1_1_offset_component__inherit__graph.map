@@ -1,0 +1,5 @@
+<map id="wEngine::OffsetComponent" name="wEngine::OffsetComponent">
+<area shape="rect" id="Node000001" title="ECS component that defines a logical coordinate offset." alt="" coords="5,242,177,410"/>
+<area shape="rect" id="Node000002" href="$classw_engine_1_1_component.html" title="Abstract base class for all ECS components." alt="" coords="23,5,159,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,208,94,242,88,242,88,208"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="wEngine::Entity" name="wEngine::Entity">
+<area shape="rect" id="Node000001" title="Represents an entity in the ECS (Entity&#45;Component System) architecture." alt="" coords="786,5,954,275"/>
+<area shape="rect" id="Node000002" href="$classw_plot2_d_1_1_axis_entity.html" title="Represents a visual axis (X or Y) in a 2D plot with optional notches and title." alt="" coords="5,364,163,633"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="771,146,641,157,565,169,485,185,403,209,323,239,247,277,177,325,157,344,140,366,136,362,153,340,173,321,244,273,321,234,402,204,484,180,564,163,641,152,771,140"/>
+<area shape="rect" id="Node000003" href="$classw_plot2_d_1_1_data_plot_entity.html" title="Entity for plotting raw data points as a connected polyline." alt="" coords="188,343,341,654"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="771,157,676,176,566,209,510,231,455,257,403,289,355,325,336,346,332,342,352,321,400,284,452,253,508,226,564,204,674,171,770,151"/>
+<area shape="rect" id="Node000004" href="$classw_plot2_d_1_1_frame_entity.html" title="Entity representing a rectangular frame around content." alt="" coords="365,333,505,664"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="773,175,710,200,643,233,578,275,520,325,507,340,503,336,516,321,575,271,641,229,708,195,771,170"/>
+<area shape="rect" id="Node000005" href="$classw_plot2_d_1_1_function_entity.html" title="Represents a mathematical function as a drawable entity in a 2D plot." alt="" coords="529,364,682,633"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="777,230,735,275,696,325,670,365,665,363,691,321,731,272,773,226"/>
+<area shape="rect" id="Node000006" href="$classw_plot2_d_1_1_graphics_entity.html" title="Central entity responsible for graphical rendering in wPlot2D." alt="" coords="706,364,860,633"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="836,290,818,365,813,364,831,289"/>
+<area shape="rect" id="Node000007" href="$classw_plot2_d_1_1_label_entity.html" title="Represents a textual label or a collection of axis labels." alt="" coords="884,343,1028,654"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="908,289,922,343,916,344,903,290"/>
+<area shape="rect" id="Node000008" href="$classw_plot2_d_1_1_legend_entity.html" title="Represents a legend box that describes functions and data plots." alt="" coords="1053,323,1212,674"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="966,230,1006,274,1042,321,1055,340,1051,343,1038,325,1001,278,962,234"/>
+<area shape="rect" id="Node000009" href="$classw_plot2_d_1_1_line_entity.html" title="Entity representing a straight line segment with optional arrowhead." alt="" coords="1236,333,1362,664"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="969,168,1032,193,1100,227,1167,269,1226,321,1238,335,1234,338,1222,325,1164,274,1098,232,1030,198,967,173"/>
+<area shape="rect" id="Node000010" href="$classw_plot2_d_1_1_notch_entity.html" title="Represents a single tick mark (&quot;notch&quot;) on a 2D axis." alt="" coords="1386,445,1524,552"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="969,151,1063,171,1171,203,1226,226,1280,252,1331,284,1377,321,1401,349,1420,381,1445,444,1440,446,1416,383,1397,352,1373,325,1328,288,1277,257,1224,230,1169,208,1062,176,968,156"/>
+<area shape="rect" id="Node000011" href="$classw_plot2_d_1_1_title_entity.html" title="Represents a textual label (typically an axis title or main plot title) in a 2D plot." alt="" coords="1548,364,1706,633"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="969,142,1093,154,1166,167,1243,184,1321,207,1398,237,1471,275,1538,321,1558,340,1575,362,1571,365,1554,344,1535,325,1468,279,1396,242,1319,212,1242,189,1165,172,1093,160,968,147"/>
+</map>

@@ -26,6 +26,24 @@ var NAVTREE =
 [
   [ "wPlot2D", "index.html", [
     [ "wPlot2D - ECS-Based 2D Plotting Engine", "index.html", "index" ],
+    [ "Namespaces", "namespaces.html", [
+      [ "Namespace List", "namespaces.html", "namespaces_dup" ],
+      [ "Namespace Members", "namespacemembers.html", [
+        [ "All", "namespacemembers.html", null ],
+        [ "Functions", "namespacemembers_func.html", null ],
+        [ "Enumerations", "namespacemembers_enum.html", null ]
+      ] ]
+    ] ],
+    [ "Classes", "annotated.html", [
+      [ "Class List", "annotated.html", "annotated_dup" ],
+      [ "Class Index", "classes.html", null ],
+      [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
+      [ "Class Members", "functions.html", [
+        [ "All", "functions.html", "functions_dup" ],
+        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "Enumerations", "functions_enum.html", null ]
+      ] ]
+    ] ],
     [ "Files", "files.html", [
       [ "File List", "files.html", "files_dup" ],
       [ "File Members", "globals.html", [
@@ -38,7 +56,10 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"dir_68267d1309a1af8e8297ef4c3efbcdba.html"
+"annotated.html",
+"classw_plot2_d_1_1_axis_entity.html#a19d950749f75c9d89a75f6683c039f08",
+"classw_plot2_d_1_1_legend_entity.html#aaedfaacf10fbb41e34047440ada1c063",
+"w_scale_component_8hpp_source.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

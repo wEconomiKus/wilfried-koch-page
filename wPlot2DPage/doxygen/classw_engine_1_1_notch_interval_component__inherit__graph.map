@@ -1,0 +1,5 @@
+<map id="wEngine::NotchIntervalComponent" name="wEngine::NotchIntervalComponent">
+<area shape="rect" id="Node000001" title="ECS component that defines the interval between notches on an axis." alt="" coords="5,242,219,389"/>
+<area shape="rect" id="Node000002" href="$classw_engine_1_1_component.html" title="Abstract base class for all ECS components." alt="" coords="44,5,180,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,208,115,242,110,242,110,208"/>
+</map>

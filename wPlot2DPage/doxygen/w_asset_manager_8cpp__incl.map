@@ -1,0 +1,16 @@
+<map id="wAssetManager.cpp" name="wAssetManager.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the AssetManager class." alt="" coords="290,5,429,31"/>
+<area shape="rect" id="Node000002" href="$w_asset_manager_8hpp.html" title=" " alt="" coords="236,79,376,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="353,33,326,68,322,65,348,30"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="417,153,488,178"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="369,30,439,138,434,141,365,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,143,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,108,129,150,127,145,266,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="167,153,221,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="288,107,227,146,224,142,286,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="244,153,290,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="302,106,283,140,279,138,297,104"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="315,153,393,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="316,103,340,138,335,141,312,106"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="332,103,415,143,413,148,330,108"/>
+</map>

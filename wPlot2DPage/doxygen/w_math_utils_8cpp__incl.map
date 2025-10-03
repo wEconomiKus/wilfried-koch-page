@@ -1,0 +1,15 @@
+<map id="wMathUtils.cpp" name="wMathUtils.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the MathUtils class." alt="" coords="263,5,375,31"/>
+<area shape="rect" id="Node000002" href="$w_math_utils_8hpp.html" title=" " alt="" coords="263,79,375,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,31,322,63,316,63,316,31"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,153,185,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,108,148,150,147,145,280,103"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="209,153,266,178"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="307,107,264,144,261,140,303,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="290,153,348,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="322,105,322,137,316,137,316,105"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="371,153,446,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="336,103,383,141,380,145,332,107"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="469,153,548,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="352,103,463,144,461,149,350,108"/>
+</map>

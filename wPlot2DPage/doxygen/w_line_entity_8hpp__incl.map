@@ -1,0 +1,22 @@
+<map id="wLineEntity.hpp" name="wLineEntity.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="438,5,550,31"/>
+<area shape="rect" id="Node000002" href="$w_entity_8hpp.html" title=" " alt="" coords="209,86,366,112"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="463,34,334,83,333,78,461,29"/>
+<area shape="rect" id="Node000009" href="$w_line_style_component_8hpp.html" title=" " alt="" coords="398,79,591,120"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="497,31,497,64,492,64,492,31"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="615,86,752,112"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="524,29,642,78,640,83,522,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,168,74,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="250,115,89,166,88,161,248,110"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="98,168,208,193"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="268,115,188,162,185,157,266,110"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="232,168,311,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="288,113,280,153,274,152,282,112"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="334,168,417,193"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="303,111,352,155,349,159,299,115"/>
+<area shape="rect" id="Node000007" href="$w_component_8hpp.html" title=" " alt="" coords="440,168,564,193"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="321,110,456,159,454,164,320,115"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="466,241,538,267"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="505,194,505,226,500,226,500,194"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="499,120,502,152,497,152,493,120"/>
+</map>

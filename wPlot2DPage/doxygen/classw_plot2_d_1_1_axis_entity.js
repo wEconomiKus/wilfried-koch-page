@@ -1,0 +1,28 @@
+var classw_plot2_d_1_1_axis_entity =
+[
+    [ "AxisEntity", "classw_plot2_d_1_1_axis_entity.html#a8f0be98d1a3733c5f26e2d8d899f35e8", null ],
+    [ "~AxisEntity", "classw_plot2_d_1_1_axis_entity.html#ad3ebb6b99df114f174b6d5182b177b2b", null ],
+    [ "setColor", "classw_plot2_d_1_1_axis_entity.html#a4ad68c7eb9de4046c9e4e2dc45c3d204", null ],
+    [ "setThickness", "classw_plot2_d_1_1_axis_entity.html#a61fd3437ce687ba411be665833b4d670", null ],
+    [ "setArrowSize", "classw_plot2_d_1_1_axis_entity.html#a919de0871ee5ede2880a885c0fc07b8a", null ],
+    [ "addTitle", "classw_plot2_d_1_1_axis_entity.html#ad43a29db65dbfc6bc2f7631c9dcdb70f", null ],
+    [ "addTitle", "classw_plot2_d_1_1_axis_entity.html#a488ea7ed59ba15c5e666b3b4ec8e5fca", null ],
+    [ "setTitleFont", "classw_plot2_d_1_1_axis_entity.html#a19d950749f75c9d89a75f6683c039f08", null ],
+    [ "setTitleCharacterSize", "classw_plot2_d_1_1_axis_entity.html#adb66f5c3503b4d442c706a46caea664a", null ],
+    [ "setTitleColor", "classw_plot2_d_1_1_axis_entity.html#a9eb2300a429e63fcc39e6f7d59b26b51", null ],
+    [ "setTitleOffset", "classw_plot2_d_1_1_axis_entity.html#a0b0eaa97c42f02c847d4f7ac02af5479", null ],
+    [ "getTitleOffset", "classw_plot2_d_1_1_axis_entity.html#abea7d251167968c48030827e57d930ad", null ],
+    [ "addNotches", "classw_plot2_d_1_1_axis_entity.html#aedfa659affe4b52e4108dd6f1d0372fc", null ],
+    [ "setNotchesColor", "classw_plot2_d_1_1_axis_entity.html#af54872dc933087e66d513cbb5ae9e2c1", null ],
+    [ "setNotchesThickness", "classw_plot2_d_1_1_axis_entity.html#a6a8c13faa5a14c9742c2225ef0cedebe", null ],
+    [ "setNotchesLength", "classw_plot2_d_1_1_axis_entity.html#a895e1fd7fb8db73cd2083f1475f399d6", null ],
+    [ "setLabelsFont", "classw_plot2_d_1_1_axis_entity.html#ac698572d5fe8f4411c5af9151327c389", null ],
+    [ "setLabelsColor", "classw_plot2_d_1_1_axis_entity.html#a515ca7c5df4de9c4a675c750a450bc01", null ],
+    [ "getLabelsOffset", "classw_plot2_d_1_1_axis_entity.html#a5a239af29a048381007782941325cb9e", null ],
+    [ "setLabelsOffset", "classw_plot2_d_1_1_axis_entity.html#a70c3b69bd31bd6c72fc3366ee444f25a", null ],
+    [ "addLabelsOffset", "classw_plot2_d_1_1_axis_entity.html#a26ebbaa840c26f4e3017bfe5c2a084c5", null ],
+    [ "setLabelsCharacterSize", "classw_plot2_d_1_1_axis_entity.html#a174b28a87a6ee144f3333f94d4f6dc80", null ],
+    [ "setLabelsDecimalPlaces", "classw_plot2_d_1_1_axis_entity.html#a62c46c890d7b04bee734be89a9c61906", null ],
+    [ "setCustomLabels", "classw_plot2_d_1_1_axis_entity.html#ab6adee65b9def4ea1a2d76f86e184efb", null ],
+    [ "render", "classw_plot2_d_1_1_axis_entity.html#a386d3c84055058de22aad540a73fd899", null ]
+];

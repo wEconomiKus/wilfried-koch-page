@@ -1,0 +1,5 @@
+<map id="wPlot2D::LineEntity" name="wPlot2D::LineEntity">
+<area shape="rect" id="Node000001" title="Entity representing a straight line segment with optional arrowhead." alt="" coords="26,323,153,654"/>
+<area shape="rect" id="Node000002" href="$classw_engine_1_1_entity.html" title="Represents an entity in the ECS (Entity&#45;Component System) architecture." alt="" coords="5,5,173,275"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,290,92,323,87,323,87,290"/>
+</map>

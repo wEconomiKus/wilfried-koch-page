@@ -1,0 +1,7 @@
+<map id="wPaddingComponent.hpp" name="wPaddingComponent.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="68,5,238,31"/>
+<area shape="rect" id="Node000002" href="$w_frame_entity_8cpp.html" title="Implementation of the FrameEntity class." alt="" coords="5,79,131,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,43,84,81,81,77,126,39"/>
+<area shape="rect" id="Node000003" href="$w_padding_component_8cpp.html" title="Implementation of the PaddingComponent class." alt="" coords="155,79,325,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,39,227,77,224,81,178,43"/>
+</map>

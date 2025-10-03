@@ -1,0 +1,15 @@
+<map id="wOffsetComponent.hpp" name="wOffsetComponent.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="374,5,533,31"/>
+<area shape="rect" id="Node000002" href="$w_axis_entity_8cpp.html" title="Implementation of the AxisEntity class." alt="" coords="5,79,120,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="372,37,121,83,120,77,371,32"/>
+<area shape="rect" id="Node000003" href="$w_function_entity_8cpp.html" title="Implementation of the FunctionEntity class." alt="" coords="144,79,282,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="399,38,255,81,253,76,398,33"/>
+<area shape="rect" id="Node000004" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="307,79,447,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="431,44,392,81,388,77,427,40"/>
+<area shape="rect" id="Node000005" href="$w_label_entity_8cpp.html" title="Implementation of the LabelEntity class." alt="" coords="471,79,590,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="479,40,519,77,516,81,476,44"/>
+<area shape="rect" id="Node000006" href="$w_offset_component_8cpp.html" title="Implementation of the OffsetComponent class." alt="" coords="615,79,774,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="509,33,654,76,653,81,508,38"/>
+<area shape="rect" id="Node000007" href="$w_title_entity_8cpp.html" title="Implementation of the TitleEntity class." alt="" coords="798,79,911,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="537,32,798,78,797,83,536,37"/>
+</map>

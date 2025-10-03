@@ -1,0 +1,7 @@
+<map id="wDiscontinuityComponent.hpp" name="wDiscontinuityComponent.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,5,301,31"/>
+<area shape="rect" id="Node000002" href="$w_discontinuity_component_8cpp.html" title="Implementation of the DiscontinuityComponent class." alt="" coords="5,79,205,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,43,123,81,119,76,171,38"/>
+<area shape="rect" id="Node000003" href="$w_function_entity_8cpp.html" title="Implementation of the FunctionEntity class." alt="" coords="229,79,368,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="231,38,284,76,280,81,228,43"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="wEngine::LineStyleComponent" name="wEngine::LineStyleComponent">
+<area shape="rect" id="Node000001" title="ESC component that defines the style of a line (solid, dotted, dashed)." alt="" coords="5,242,195,471"/>
+<area shape="rect" id="Node000002" href="$classw_engine_1_1_component.html" title="Abstract base class for all ECS components." alt="" coords="32,5,168,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,209,103,242,98,242,98,209"/>
+</map>

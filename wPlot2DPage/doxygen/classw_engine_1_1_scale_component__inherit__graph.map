@@ -1,0 +1,5 @@
+<map id="wEngine::ScaleComponent" name="wEngine::ScaleComponent">
+<area shape="rect" id="Node000001" title="ECS component that defines the scaling factor for an entity in 2D space." alt="" coords="5,242,174,389"/>
+<area shape="rect" id="Node000002" href="$classw_engine_1_1_component.html" title="Abstract base class for all ECS components." alt="" coords="22,5,158,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,208,92,242,87,242,87,208"/>
+</map>

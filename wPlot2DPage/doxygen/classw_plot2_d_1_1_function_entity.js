@@ -1,0 +1,26 @@
+var classw_plot2_d_1_1_function_entity =
+[
+    [ "FunctionEntity", "classw_plot2_d_1_1_function_entity.html#aefe48a74ca552b974d98e31eddb87327", null ],
+    [ "~FunctionEntity", "classw_plot2_d_1_1_function_entity.html#af5507652b9d40bd805799dda1df22c87", null ],
+    [ "getPosition", "classw_plot2_d_1_1_function_entity.html#a44afddc8237b36b1a4a60122fdcb086e", null ],
+    [ "getColor", "classw_plot2_d_1_1_function_entity.html#a2dafbe989c144a95131bcb88eb30b94a", null ],
+    [ "getThickness", "classw_plot2_d_1_1_function_entity.html#a84bb6ce30381f6d885eacbfdd1f1e04f", null ],
+    [ "getLineStyle", "classw_plot2_d_1_1_function_entity.html#a3460b2949bb830101f1ab9cf70f85f3a", null ],
+    [ "getDashLength", "classw_plot2_d_1_1_function_entity.html#adaf220f0c5b8bd4b89d1ca0821631854", null ],
+    [ "getGapLength", "classw_plot2_d_1_1_function_entity.html#a0e305cfaa68e87a5c08f55e7b3f33093", null ],
+    [ "getOffset", "classw_plot2_d_1_1_function_entity.html#aac2090633b1429e666be6134cdfd8de9", null ],
+    [ "getRotation", "classw_plot2_d_1_1_function_entity.html#a66a04ff3e3e5cf0d5d16727842e97b89", null ],
+    [ "setPosition", "classw_plot2_d_1_1_function_entity.html#a5ba201019726bf203afae4ee6b1a2366", null ],
+    [ "setColor", "classw_plot2_d_1_1_function_entity.html#afc642ddbf424b5049edd26bf90a290ca", null ],
+    [ "setThickness", "classw_plot2_d_1_1_function_entity.html#a2df671763f9924a20b98c8192ce6709d", null ],
+    [ "setLineStyle", "classw_plot2_d_1_1_function_entity.html#a92312b3d6a91d6d4075cb035b4c6ad4a", null ],
+    [ "setDashLength", "classw_plot2_d_1_1_function_entity.html#a0da1811c874c096726df3cd82fd9e7c6", null ],
+    [ "setGapLength", "classw_plot2_d_1_1_function_entity.html#a62efbe03d7260b6a430eef4904c87a91", null ],
+    [ "setOffset", "classw_plot2_d_1_1_function_entity.html#a27f51f01ab9bfd2171ac143a262e98fd", null ],
+    [ "setRotation", "classw_plot2_d_1_1_function_entity.html#af6b5435fd2668938e59cd574352a6d91", null ],
+    [ "setScale", "classw_plot2_d_1_1_function_entity.html#ab51fe21e4b4d0ba3570ac95fca266fe4", null ],
+    [ "addExcludedInterval", "classw_plot2_d_1_1_function_entity.html#a515c7ec9c8120b4a03ca6fcb2674ea5e", null ],
+    [ "clearExcludedIntervals", "classw_plot2_d_1_1_function_entity.html#ae70db2838679cfa5165c0f71de184ef4", null ],
+    [ "alignToYAxis", "classw_plot2_d_1_1_function_entity.html#a0cc74f852bf52eb4f1cc40dd1686792f", null ],
+    [ "drawFunction", "classw_plot2_d_1_1_function_entity.html#a2aace61c1e230c5b8dab3b5644af97d7", null ]
+];

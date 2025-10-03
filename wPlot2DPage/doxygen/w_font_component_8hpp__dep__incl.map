@@ -1,0 +1,11 @@
+<map id="wFontComponent.hpp" name="wFontComponent.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="239,5,388,31"/>
+<area shape="rect" id="Node000002" href="$w_font_component_8cpp.html" title="Implementation of the FontComponent class." alt="" coords="5,79,155,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,38,121,81,119,76,259,33"/>
+<area shape="rect" id="Node000003" href="$w_label_entity_8cpp.html" title="Implementation of the LabelEntity class." alt="" coords="179,79,298,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="292,44,253,81,249,77,288,40"/>
+<area shape="rect" id="Node000004" href="$w_legend_entity_8cpp.html" title="Implementation of the LegendEntity class." alt="" coords="323,79,453,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="339,40,377,77,374,81,335,44"/>
+<area shape="rect" id="Node000005" href="$w_title_entity_8cpp.html" title="Implementation of the TitleEntity class." alt="" coords="477,79,590,105"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="366,34,497,76,495,81,364,39"/>
+</map>

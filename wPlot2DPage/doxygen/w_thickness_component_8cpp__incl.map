@@ -1,0 +1,15 @@
+<map id="wThicknessComponent.cpp" name="wThicknessComponent.cpp">
+<area shape="rect" id="Node000001" title="Implementation of the ThicknessComponent class." alt="" coords="245,5,429,31"/>
+<area shape="rect" id="Node000002" href="$w_thickness_component_8hpp.html" title=" " alt="" coords="103,79,286,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="314,34,234,74,231,69,312,29"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="310,79,364,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="340,31,340,63,334,63,334,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="387,79,466,105"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="354,29,401,67,398,71,350,34"/>
+<area shape="rect" id="Node000003" href="$w_component_8hpp.html" title=" " alt="" coords="5,153,197,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="180,107,130,145,127,141,177,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="220,153,358,178"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="212,103,263,141,259,145,209,107"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="65,226,137,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="104,179,104,211,98,211,98,179"/>
+</map>

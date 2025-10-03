@@ -1,0 +1,5 @@
+<map id="wEngine::DiscontinuityComponent" name="wEngine::DiscontinuityComponent">
+<area shape="rect" id="Node000001" title="ECS component that manages excluded intervals for function plotting." alt="" coords="5,242,217,430"/>
+<area shape="rect" id="Node000002" href="$classw_engine_1_1_component.html" title="Abstract base class for all ECS components." alt="" coords="43,5,179,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,209,114,242,108,242,108,209"/>
+</map>

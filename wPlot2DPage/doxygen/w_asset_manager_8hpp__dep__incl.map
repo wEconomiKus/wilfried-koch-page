@@ -1,0 +1,18 @@
+<map id="wAssetManager.hpp" name="wAssetManager.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="112,5,251,31"/>
+<area shape="rect" id="Node000002" href="$w_asset_manager_8cpp.html" title="Implementation of the AssetManager class." alt="" coords="5,79,145,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,42,95,81,92,76,149,38"/>
+<area shape="rect" id="Node000003" href="$w_axis_entity_8hpp.html" title=" " alt="" coords="247,79,362,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,37,285,76,282,81,214,41"/>
+<area shape="rect" id="Node000005" href="$w_graphics_entity_8hpp.html" title=" " alt="" coords="82,153,222,178"/>
+<area shape="poly" id="edge8_Node000001_Node000005" title=" " alt="" coords="179,47,157,153,152,152,174,46"/>
+<area shape="rect" id="Node000004" href="$w_axis_entity_8cpp.html" title="Implementation of the AxisEntity class." alt="" coords="247,153,362,178"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="307,120,307,152,302,152,302,120"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="266,114,179,154,177,150,264,109"/>
+<area shape="rect" id="Node000007" href="$w_label_entity_8cpp.html" title="Implementation of the LabelEntity class." alt="" coords="386,153,505,178"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="343,110,423,150,420,154,341,114"/>
+<area shape="rect" id="Node000008" href="$w_notch_entity_8cpp.html" title="Implementation of the NotchEntity class." alt="" coords="529,153,653,178"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="368,106,543,149,541,155,367,111"/>
+<area shape="rect" id="Node000006" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="82,226,222,252"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="155,194,155,226,150,226,150,194"/>
+</map>

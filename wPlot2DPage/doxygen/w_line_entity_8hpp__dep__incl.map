@@ -1,0 +1,23 @@
+<map id="wLineEntity.hpp" name="wLineEntity.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="470,5,582,31"/>
+<area shape="rect" id="Node000002" href="$w_axis_entity_8hpp.html" title=" " alt="" coords="296,79,410,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="484,40,384,81,382,76,482,35"/>
+<area shape="rect" id="Node000004" href="$w_graphics_entity_8hpp.html" title=" " alt="" coords="435,153,575,178"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="515,46,504,80,501,119,505,152,500,153,496,119,498,78,510,44"/>
+<area shape="rect" id="Node000008" href="$w_legend_entity_8hpp.html" title=" " alt="" coords="513,79,644,105"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="546,42,572,77,567,80,542,45"/>
+<area shape="rect" id="Node000010" href="$w_line_entity_8cpp.html" title="Implementation of the LineEntity class." alt="" coords="668,79,780,105"/>
+<area shape="poly" id="edge11_Node000001_Node000010" title=" " alt="" coords="575,34,691,76,689,81,573,39"/>
+<area shape="rect" id="Node000003" href="$w_axis_entity_8cpp.html" title="Implementation of the AxisEntity class." alt="" coords="296,153,410,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="356,120,356,152,350,152,350,120"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="394,109,480,150,478,154,391,114"/>
+<area shape="rect" id="Node000006" href="$w_label_entity_8cpp.html" title="Implementation of the LabelEntity class." alt="" coords="5,153,125,178"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="290,111,115,155,113,149,289,106"/>
+<area shape="rect" id="Node000007" href="$w_notch_entity_8cpp.html" title="Implementation of the NotchEntity class." alt="" coords="149,153,272,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="316,114,236,154,233,150,314,110"/>
+<area shape="rect" id="Node000005" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="435,226,575,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="508,194,508,226,502,226,502,194"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="557,117,519,154,516,150,553,114"/>
+<area shape="rect" id="Node000009" href="$w_legend_entity_8cpp.html" title="Implementation of the LegendEntity class." alt="" coords="600,153,730,178"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="606,113,652,150,649,154,603,117"/>
+</map>

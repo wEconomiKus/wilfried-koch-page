@@ -1,0 +1,28 @@
+var classw_plot2_d_1_1_graphics_entity =
+[
+    [ "GraphicsEntity", "classw_plot2_d_1_1_graphics_entity.html#af017a0a6f1d893a2003115e17c47c369", null ],
+    [ "~GraphicsEntity", "classw_plot2_d_1_1_graphics_entity.html#a70d3440c0bb176c3acd4098383e3f8e3", null ],
+    [ "getWindow", "classw_plot2_d_1_1_graphics_entity.html#a40389ef1344157cb72f046231dbcda9f", null ],
+    [ "getWindowSize", "classw_plot2_d_1_1_graphics_entity.html#af592bae42844a4228699f4dbcd703ed2", null ],
+    [ "setWindowSize", "classw_plot2_d_1_1_graphics_entity.html#a7d108e4fa47e7bc9cf98f2827c864938", null ],
+    [ "setWindowTitle", "classw_plot2_d_1_1_graphics_entity.html#a0fd2d95005e22cf32cecf73f4e2a24e2", null ],
+    [ "setBackgroundColor", "classw_plot2_d_1_1_graphics_entity.html#a827333ac77c8d7eefe14140f5996c51f", null ],
+    [ "addFont", "classw_plot2_d_1_1_graphics_entity.html#a80dbae450ab7b5c7e5ad5787109dca53", null ],
+    [ "getFont", "classw_plot2_d_1_1_graphics_entity.html#adb91c49e7f6634dc18a3cd5e8b87fceb", null ],
+    [ "getOrigin", "classw_plot2_d_1_1_graphics_entity.html#a0c753abfef9c68eb82f96bf055c65a65", null ],
+    [ "setOrigin", "classw_plot2_d_1_1_graphics_entity.html#a6b619568e288605a7a5c4b3de19d108c", null ],
+    [ "getScale", "classw_plot2_d_1_1_graphics_entity.html#ab3442f0cab23d3921ff8a44d0759af0d", null ],
+    [ "setScale", "classw_plot2_d_1_1_graphics_entity.html#a4bae74fbd3000476273060e013767356", null ],
+    [ "getOffset", "classw_plot2_d_1_1_graphics_entity.html#a78bf8ab5b262545b82ed0d8010a2c815", null ],
+    [ "setOffset", "classw_plot2_d_1_1_graphics_entity.html#ad8f34483571d62b8ed0a6f2176eb3eaf", null ],
+    [ "addAxis", "classw_plot2_d_1_1_graphics_entity.html#a71ec5dd12c5e5fffe4c1fc556160bec8", null ],
+    [ "addTitle", "classw_plot2_d_1_1_graphics_entity.html#aba5d920aec75d73ba317b9e6b6db74cc", null ],
+    [ "addTitle", "classw_plot2_d_1_1_graphics_entity.html#abb0509fd7b7ab17d0213addbd1c3d106", null ],
+    [ "addFunction", "classw_plot2_d_1_1_graphics_entity.html#a9ae7aa1d57964aafb188e8e347097ad5", null ],
+    [ "addDataPlot", "classw_plot2_d_1_1_graphics_entity.html#a870b9fa4d942c488b14bab705e646897", null ],
+    [ "addLegend", "classw_plot2_d_1_1_graphics_entity.html#a17d4fb9cddfbc67887c4804f4fea2dc9", null ],
+    [ "addText", "classw_plot2_d_1_1_graphics_entity.html#af992fe8203ceb05eee14bc16d5bce1e9", null ],
+    [ "addText", "classw_plot2_d_1_1_graphics_entity.html#a61ea2a65c90be2c7a4b5146ecb6bd16d", null ],
+    [ "addLine", "classw_plot2_d_1_1_graphics_entity.html#a4bc4ead17dade8101cb7f03dab567e33", null ],
+    [ "saveToFile", "classw_plot2_d_1_1_graphics_entity.html#a887e67da44c875d1d8bda47644604185", null ]
+];

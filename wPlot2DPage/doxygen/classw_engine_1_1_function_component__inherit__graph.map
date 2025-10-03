@@ -1,0 +1,5 @@
+<map id="wEngine::FunctionComponent" name="wEngine::FunctionComponent">
+<area shape="rect" id="Node000001" title="ECS component that stores a mathematical function f(x)." alt="" coords="5,242,191,369"/>
+<area shape="rect" id="Node000002" href="$classw_engine_1_1_component.html" title="Abstract base class for all ECS components." alt="" coords="30,5,166,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,209,101,242,96,242,96,209"/>
+</map>

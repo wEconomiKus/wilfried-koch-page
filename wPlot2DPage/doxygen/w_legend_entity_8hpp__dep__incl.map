@@ -1,0 +1,9 @@
+<map id="wLegendEntity.hpp" name="wLegendEntity.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="90,5,221,31"/>
+<area shape="rect" id="Node000002" href="$w_graphics_entity_8hpp.html" title=" " alt="" coords="5,79,146,105"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="132,43,91,81,87,77,129,39"/>
+<area shape="rect" id="Node000004" href="$w_legend_entity_8cpp.html" title="Implementation of the LegendEntity class." alt="" coords="170,79,301,105"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,39,224,77,220,81,179,43"/>
+<area shape="rect" id="Node000003" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="5,153,146,178"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,120,78,152,73,152,73,120"/>
+</map>

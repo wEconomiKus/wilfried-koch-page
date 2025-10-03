@@ -1,0 +1,5 @@
+<map id="wEngine::PaddingComponent" name="wEngine::PaddingComponent">
+<area shape="rect" id="Node000001" title="ECS component representing internal padding for UI&#45;like elements." alt="" coords="5,242,188,389"/>
+<area shape="rect" id="Node000002" href="$classw_engine_1_1_component.html" title="Abstract base class for all ECS components." alt="" coords="29,5,164,194"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,208,99,242,94,242,94,208"/>
+</map>
