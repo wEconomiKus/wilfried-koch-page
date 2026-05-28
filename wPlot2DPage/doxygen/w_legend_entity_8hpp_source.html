@@ -28,7 +28,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="icon_64x64.png"/></td>
   <td id="projectalign">
-   <div id="projectname">wPlot2D<span id="projectnumber">&#160;version: 0.1.0</span>
+   <div id="projectname">wPlot2D<span id="projectnumber">&#160;version: 0.1.1</span>
    </div>
    <div id="projectbrief">A lightweight C++ library for clear and customizable 2D scientific plots.</div>
   </td>
@@ -157,13 +157,13 @@ $(function(){initNavTree('w_legend_entity_8hpp_source.html','',''); });
 <div class="line"><a id="l00166" name="l00166"></a><span class="lineno">  166</span>        <span class="keyword">private</span>:</div>
 <div class="line"><a id="l00171" name="l00171"></a><span class="lineno">  171</span>            <span class="keyword">struct </span>LegendItem</div>
 <div class="line"><a id="l00172" name="l00172"></a><span class="lineno">  172</span>            {</div>
-<div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>                std::string label;</div>
-<div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>                std::unique_ptr&lt; LineEntity &gt; line;</div>
-<div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span>                sf::Text labelText;</div>
+<div class="line"><a id="l00173" name="l00173"></a><span class="lineno">  173</span>                std::string mLabel;</div>
+<div class="line"><a id="l00174" name="l00174"></a><span class="lineno">  174</span>                std::unique_ptr&lt; LineEntity &gt; mLine;</div>
+<div class="line"><a id="l00175" name="l00175"></a><span class="lineno">  175</span>                sf::Text mLabelText;</div>
 <div class="line"><a id="l00176" name="l00176"></a><span class="lineno">  176</span> </div>
 <div class="line"><a id="l00177" name="l00177"></a><span class="lineno">  177</span>                LegendItem( std::unique_ptr&lt; LineEntity &gt; line, sf::Text&amp;&amp; txt )</div>
-<div class="line"><a id="l00178" name="l00178"></a><span class="lineno">  178</span>                :   line{ std::move( line ) },</div>
-<div class="line"><a id="l00179" name="l00179"></a><span class="lineno">  179</span>                    labelText{ std::move( txt ) }</div>
+<div class="line"><a id="l00178" name="l00178"></a><span class="lineno">  178</span>                :   mLine{ std::move( line ) },</div>
+<div class="line"><a id="l00179" name="l00179"></a><span class="lineno">  179</span>                    mLabelText{ std::move( txt ) }</div>
 <div class="line"><a id="l00180" name="l00180"></a><span class="lineno">  180</span>                    {</div>
 <div class="line"><a id="l00181" name="l00181"></a><span class="lineno">  181</span> </div>
 <div class="line"><a id="l00182" name="l00182"></a><span class="lineno">  182</span>                    }</div>
@@ -187,7 +187,7 @@ $(function(){initNavTree('w_legend_entity_8hpp_source.html','',''); });
 <div class="line"><a id="l00222" name="l00222"></a><span class="lineno">  222</span><span class="preprocessor">#endif</span></div>
 <div class="ttc" id="aclassw_engine_1_1_entity_html"><div class="ttname"><a href="classw_engine_1_1_entity.html">wEngine::Entity</a></div><div class="ttdoc">Represents an entity in the ECS (Entity-Component System) architecture.</div><div class="ttdef"><b>Definition</b> wEntity.hpp:60</div></div>
 <div class="ttc" id="aclassw_plot2_d_1_1_data_plot_entity_html"><div class="ttname"><a href="classw_plot2_d_1_1_data_plot_entity.html">wPlot2D::DataPlotEntity</a></div><div class="ttdoc">Entity for plotting raw data points as a connected polyline.</div><div class="ttdef"><b>Definition</b> wDataPlotEntity.hpp:42</div></div>
-<div class="ttc" id="aclassw_plot2_d_1_1_function_entity_html"><div class="ttname"><a href="classw_plot2_d_1_1_function_entity.html">wPlot2D::FunctionEntity</a></div><div class="ttdoc">Represents a mathematical function as a drawable entity in a 2D plot.</div><div class="ttdef"><b>Definition</b> wFunctionEntity.hpp:43</div></div>
+<div class="ttc" id="aclassw_plot2_d_1_1_function_entity_html"><div class="ttname"><a href="classw_plot2_d_1_1_function_entity.html">wPlot2D::FunctionEntity</a></div><div class="ttdoc">Represents a mathematical function as a drawable entity in a 2D plot.</div><div class="ttdef"><b>Definition</b> wFunctionEntity.hpp:45</div></div>
 <div class="ttc" id="aclassw_plot2_d_1_1_legend_entity_html_a03a19d4745c5ffdea18dfabe295cc07c"><div class="ttname"><a href="classw_plot2_d_1_1_legend_entity.html#a03a19d4745c5ffdea18dfabe295cc07c">wPlot2D::LegendEntity::render</a></div><div class="ttdeci">void render(sf::RenderWindow &amp;window)</div><div class="ttdoc">Renders the legend (all items and optional frame) to the target window.</div><div class="ttdef"><b>Definition</b> wLegendEntity.cpp:150</div></div>
 <div class="ttc" id="aclassw_plot2_d_1_1_legend_entity_html_a359a4e61a150b843f036072c21f219d2"><div class="ttname"><a href="classw_plot2_d_1_1_legend_entity.html#a359a4e61a150b843f036072c21f219d2">wPlot2D::LegendEntity::setFont</a></div><div class="ttdeci">void setFont(const sf::Font &amp;font)</div><div class="ttdoc">Updates the font used for all legend labels.</div><div class="ttdef"><b>Definition</b> wLegendEntity.cpp:111</div></div>
 <div class="ttc" id="aclassw_plot2_d_1_1_legend_entity_html_a43317e52d83bbe7c6cceaa0bf7be9da7"><div class="ttname"><a href="classw_plot2_d_1_1_legend_entity.html#a43317e52d83bbe7c6cceaa0bf7be9da7">wPlot2D::LegendEntity::~LegendEntity</a></div><div class="ttdeci">virtual ~LegendEntity()=default</div><div class="ttdoc">Virtual destructor.</div></div>
@@ -200,7 +200,7 @@ $(function(){initNavTree('w_legend_entity_8hpp_source.html','',''); });
 <div class="ttc" id="aclassw_plot2_d_1_1_legend_entity_html_ae8f5f5437c34f92135206a4ca4e66f0b"><div class="ttname"><a href="classw_plot2_d_1_1_legend_entity.html#ae8f5f5437c34f92135206a4ca4e66f0b">wPlot2D::LegendEntity::addItem</a></div><div class="ttdeci">void addItem(const std::string &amp;label, FunctionEntity *function)</div><div class="ttdoc">Adds a new legend item associated with a function.</div><div class="ttdef"><b>Definition</b> wLegendEntity.cpp:36</div></div>
 <div class="ttc" id="aclassw_plot2_d_1_1_legend_entity_html_ae95afa824e99aedce75cce72439fe3f2"><div class="ttname"><a href="classw_plot2_d_1_1_legend_entity.html#ae95afa824e99aedce75cce72439fe3f2">wPlot2D::LegendEntity::setTextColor</a></div><div class="ttdeci">void setTextColor(const sf::Color &amp;color)</div><div class="ttdoc">Sets the color of the legend labels.</div><div class="ttdef"><b>Definition</b> wLegendEntity.cpp:126</div></div>
 <div class="ttc" id="aclassw_plot2_d_1_1_legend_entity_html_afd93eb5d8368845ff8ab2f1607060ac1"><div class="ttname"><a href="classw_plot2_d_1_1_legend_entity.html#afd93eb5d8368845ff8ab2f1607060ac1">wPlot2D::LegendEntity::setFrameOutlineColor</a></div><div class="ttdeci">void setFrameOutlineColor(const sf::Color &amp;color)</div><div class="ttdoc">Sets the outline color of the legend frame.</div><div class="ttdef"><b>Definition</b> wLegendEntity.cpp:96</div></div>
-<div class="ttc" id="anamespacew_plot2_d_html"><div class="ttname"><a href="namespacew_plot2_d.html">wPlot2D</a></div><div class="ttdef"><b>Definition</b> wAxisEntity.cpp:17</div></div>
+<div class="ttc" id="anamespacew_plot2_d_html"><div class="ttname"><a href="namespacew_plot2_d.html">wPlot2D</a></div><div class="ttdef"><b>Definition</b> wAxisEntity.cpp:19</div></div>
 <div class="ttc" id="aw_data_plot_entity_8hpp_html"><div class="ttname"><a href="w_data_plot_entity_8hpp.html">wDataPlotEntity.hpp</a></div></div>
 <div class="ttc" id="aw_entity_8hpp_html"><div class="ttname"><a href="w_entity_8hpp.html">wEntity.hpp</a></div></div>
 <div class="ttc" id="aw_frame_entity_8hpp_html"><div class="ttname"><a href="w_frame_entity_8hpp.html">wFrameEntity.hpp</a></div></div>

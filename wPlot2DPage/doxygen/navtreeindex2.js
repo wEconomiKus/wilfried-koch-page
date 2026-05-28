@@ -1,5 +1,7 @@
 var NAVTREEINDEX2 =
 {
+"classw_plot2_d_1_1_legend_entity.html#aab263b6589a69aad7211fd56018ab97b":[1,0,1,6,5],
+"classw_plot2_d_1_1_legend_entity.html#aab263b6589a69aad7211fd56018ab97b":[2,0,1,6,5],
 "classw_plot2_d_1_1_legend_entity.html#aaedfaacf10fbb41e34047440ada1c063":[1,0,1,6,0],
 "classw_plot2_d_1_1_legend_entity.html#aaedfaacf10fbb41e34047440ada1c063":[2,0,1,6,0],
 "classw_plot2_d_1_1_legend_entity.html#ae31d6961ae646bc07d39ade0113cad75":[1,0,1,6,10],
@@ -144,10 +146,11 @@ var NAVTREEINDEX2 =
 "hierarchy.html":[2,2],
 "index.html":[],
 "index.html":[0],
-"index.html#author_sec":[0,0,3],
+"index.html#author_sec":[0,0,4],
 "index.html#features_sec":[0,0,1],
 "index.html#intro_sec":[0,0,0],
-"index.html#links_sec":[0,0,2],
+"index.html#links_sec":[0,0,3],
+"index.html#minimal":[0,0,2],
 "index.html#title":[0,0],
 "main_8cpp.html":[3,0,0,4],
 "main_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[3,0,0,4,0],
@@ -242,12 +245,9 @@ var NAVTREEINDEX2 =
 "w_path_utils_8cpp.html":[3,0,0,3,6],
 "w_path_utils_8hpp.html":[3,0,0,3,7],
 "w_path_utils_8hpp_source.html":[3,0,0,3,7],
+"w_plot2_d_8hpp.html":[3,0,0,5],
+"w_plot2_d_8hpp_source.html":[3,0,0,5],
 "w_position_component_8cpp.html":[3,0,0,0,18],
 "w_position_component_8hpp.html":[3,0,0,0,19],
-"w_position_component_8hpp_source.html":[3,0,0,0,19],
-"w_rotation_component_8cpp.html":[3,0,0,0,20],
-"w_rotation_component_8hpp.html":[3,0,0,0,21],
-"w_rotation_component_8hpp_source.html":[3,0,0,0,21],
-"w_scale_component_8cpp.html":[3,0,0,0,22],
-"w_scale_component_8hpp.html":[3,0,0,0,23]
+"w_position_component_8hpp_source.html":[3,0,0,0,19]
 };

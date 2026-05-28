@@ -2,15 +2,17 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="353,5,476,31"/>
 <area shape="rect" id="Node000002" href="$w_axis_entity_8hpp.html" title=" " alt="" coords="311,79,425,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="401,45,378,80,373,77,396,42"/>
-<area shape="rect" id="Node000007" href="$w_notch_entity_8cpp.html" title="Implementation of the NotchEntity class." alt="" coords="452,153,575,178"/>
-<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="433,42,507,151,503,154,429,45"/>
+<area shape="rect" id="Node000008" href="$w_notch_entity_8cpp.html" title="Implementation of the NotchEntity class." alt="" coords="452,153,575,178"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="433,42,507,151,503,154,429,45"/>
 <area shape="rect" id="Node000003" href="$w_axis_entity_8cpp.html" title="Implementation of the AxisEntity class." alt="" coords="5,153,120,178"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="301,111,115,155,114,149,300,106"/>
 <area shape="rect" id="Node000004" href="$w_graphics_entity_8hpp.html" title=" " alt="" coords="144,153,285,178"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="329,114,242,154,240,150,327,109"/>
-<area shape="rect" id="Node000006" href="$w_label_entity_8cpp.html" title="Implementation of the LabelEntity class." alt="" coords="308,153,428,178"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="370,120,370,152,365,152,365,120"/>
-<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="407,109,490,150,487,154,405,114"/>
-<area shape="rect" id="Node000005" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="144,226,285,252"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,194,217,226,212,226,212,194"/>
+<area shape="rect" id="Node000007" href="$w_label_entity_8cpp.html" title="Implementation of the LabelEntity class." alt="" coords="308,153,428,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="370,120,370,152,365,152,365,120"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="407,109,490,150,487,154,405,114"/>
+<area shape="rect" id="Node000005" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="72,226,213,252"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="194,191,157,228,153,224,190,187"/>
+<area shape="rect" id="Node000006" href="$w_plot2_d_8hpp.html" title="Main public include file for the wPlot2D library." alt="" coords="237,226,333,252"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="239,187,275,224,271,228,235,191"/>
 </map>

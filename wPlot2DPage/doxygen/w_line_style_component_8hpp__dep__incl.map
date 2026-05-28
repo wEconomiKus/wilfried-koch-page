@@ -2,46 +2,48 @@
 <area shape="rect" id="Node000001" title=" " alt="" coords="527,5,704,31"/>
 <area shape="rect" id="Node000002" href="$w_data_plot_entity_8hpp.html" title=" " alt="" coords="103,79,242,105"/>
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="525,37,243,82,242,77,524,31"/>
-<area shape="rect" id="Node000008" href="$w_function_entity_8hpp.html" title=" " alt="" coords="315,79,454,105"/>
-<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="563,38,425,81,423,76,561,33"/>
-<area shape="rect" id="Node000010" href="$w_line_drawer_8hpp.html" title=" " alt="" coords="505,79,627,105"/>
-<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="601,45,576,80,572,77,596,42"/>
-<area shape="rect" id="Node000012" href="$w_line_entity_8cpp.html" title="Implementation of the LineEntity class." alt="" coords="702,153,814,178"/>
-<area shape="poly" id="edge17_Node000001_Node000012" title=" " alt="" coords="636,41,692,103,745,150,742,154,688,107,632,45"/>
-<area shape="rect" id="Node000013" href="$w_line_entity_8hpp.html" title=" " alt="" coords="702,79,814,105"/>
-<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="654,36,735,76,732,81,652,41"/>
-<area shape="rect" id="Node000018" href="$w_line_style_component_8cpp.html" title="Implementation of the LineStyleComponent class." alt="" coords="839,79,1016,105"/>
-<area shape="poly" id="edge27_Node000001_Node000018" title=" " alt="" coords="684,32,875,76,874,81,683,38"/>
+<area shape="rect" id="Node000009" href="$w_function_entity_8hpp.html" title=" " alt="" coords="315,79,454,105"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="563,38,425,81,423,76,561,33"/>
+<area shape="rect" id="Node000011" href="$w_line_drawer_8hpp.html" title=" " alt="" coords="505,79,627,105"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="601,45,576,80,572,77,596,42"/>
+<area shape="rect" id="Node000013" href="$w_line_entity_8cpp.html" title="Implementation of the LineEntity class." alt="" coords="702,153,814,178"/>
+<area shape="poly" id="edge18_Node000001_Node000013" title=" " alt="" coords="636,41,692,103,745,150,742,154,688,107,632,45"/>
+<area shape="rect" id="Node000014" href="$w_line_entity_8hpp.html" title=" " alt="" coords="702,79,814,105"/>
+<area shape="poly" id="edge19_Node000001_Node000014" title=" " alt="" coords="654,36,735,76,732,81,652,41"/>
+<area shape="rect" id="Node000019" href="$w_line_style_component_8cpp.html" title="Implementation of the LineStyleComponent class." alt="" coords="839,79,1016,105"/>
+<area shape="poly" id="edge28_Node000001_Node000019" title=" " alt="" coords="684,32,875,76,874,81,683,38"/>
 <area shape="rect" id="Node000003" href="$w_data_plot_entity_8cpp.html" title="Implementation of the DataPlotEntity class." alt="" coords="26,153,165,178"/>
 <area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,117,110,154,106,150,146,114"/>
 <area shape="rect" id="Node000004" href="$w_graphics_entity_8hpp.html" title=" " alt="" coords="314,226,455,252"/>
 <area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="89,111,52,123,23,138,13,147,9,156,9,165,15,176,126,197,314,225,313,230,125,202,12,181,4,167,4,155,9,143,20,134,50,118,88,106"/>
-<area shape="rect" id="Node000006" href="$w_legend_entity_8hpp.html" title=" " alt="" coords="189,153,319,178"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="199,113,242,150,239,154,196,117"/>
-<area shape="rect" id="Node000005" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="314,300,455,326"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="387,267,387,300,382,300,382,267"/>
-<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="290,184,364,223,361,228,288,188"/>
-<area shape="rect" id="Node000007" href="$w_legend_entity_8cpp.html" title="Implementation of the LegendEntity class." alt="" coords="159,226,290,252"/>
-<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="246,194,232,227,227,225,241,192"/>
-<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="386,121,385,178,387,226,381,226,379,178,380,120"/>
-<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="351,115,277,154,275,150,348,110"/>
-<area shape="rect" id="Node000009" href="$w_function_entity_8cpp.html" title="Implementation of the FunctionEntity class." alt="" coords="394,153,532,178"/>
-<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="411,113,452,150,448,154,407,117"/>
-<area shape="poly" id="edge13_Node000010_Node000003" title=" " alt="" coords="490,107,166,156,165,151,489,102"/>
-<area shape="poly" id="edge14_Node000010_Node000009" title=" " alt="" coords="538,116,482,154,479,150,535,111"/>
-<area shape="rect" id="Node000011" href="$w_line_drawer_8cpp.html" title="Implementation of the LineDrawer class." alt="" coords="556,153,677,178"/>
-<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="585,116,610,151,606,154,581,119"/>
-<area shape="poly" id="edge16_Node000010_Node000012" title=" " alt="" coords="613,108,726,150,724,155,612,113"/>
-<area shape="poly" id="edge24_Node000013_Node000004" title=" " alt="" coords="794,112,813,126,828,143,835,162,828,180,802,199,765,213,718,224,665,232,554,240,455,242,455,236,554,235,665,226,717,219,763,208,800,194,824,177,829,162,823,146,809,130,791,116"/>
-<area shape="poly" id="edge25_Node000013_Node000006" title=" " alt="" coords="687,106,320,158,319,152,686,101"/>
-<area shape="poly" id="edge26_Node000013_Node000012" title=" " alt="" coords="761,120,761,152,755,152,755,120"/>
-<area shape="rect" id="Node000014" href="$w_axis_entity_8hpp.html" title=" " alt="" coords="889,153,1003,178"/>
-<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="805,108,915,150,913,155,803,113"/>
-<area shape="poly" id="edge21_Node000014_Node000004" title=" " alt="" coords="874,181,870,181,456,232,455,227,870,176,873,175"/>
-<area shape="rect" id="Node000015" href="$w_axis_entity_8cpp.html" title="Implementation of the AxisEntity class." alt="" coords="747,226,862,252"/>
-<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="910,188,830,228,827,223,907,183"/>
-<area shape="rect" id="Node000016" href="$w_label_entity_8cpp.html" title="Implementation of the LabelEntity class." alt="" coords="886,226,1006,252"/>
-<area shape="poly" id="edge22_Node000014_Node000016" title=" " alt="" coords="949,194,949,226,943,226,943,194"/>
-<area shape="rect" id="Node000017" href="$w_notch_entity_8cpp.html" title="Implementation of the NotchEntity class." alt="" coords="1030,226,1153,252"/>
-<area shape="poly" id="edge23_Node000014_Node000017" title=" " alt="" coords="985,183,1068,223,1065,228,983,188"/>
+<area shape="rect" id="Node000007" href="$w_legend_entity_8hpp.html" title=" " alt="" coords="189,153,319,178"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="199,113,242,150,239,154,196,117"/>
+<area shape="rect" id="Node000005" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="242,300,383,326"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="364,265,327,301,323,298,360,261"/>
+<area shape="rect" id="Node000006" href="$w_plot2_d_8hpp.html" title="Main public include file for the wPlot2D library." alt="" coords="407,300,503,326"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="409,261,445,298,441,301,405,265"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="290,184,364,223,361,228,288,188"/>
+<area shape="rect" id="Node000008" href="$w_legend_entity_8cpp.html" title="Implementation of the LegendEntity class." alt="" coords="159,226,290,252"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="246,194,232,227,227,225,241,192"/>
+<area shape="poly" id="edge11_Node000009_Node000004" title=" " alt="" coords="386,121,385,178,387,226,381,226,379,178,380,120"/>
+<area shape="poly" id="edge12_Node000009_Node000007" title=" " alt="" coords="351,115,277,154,275,150,348,110"/>
+<area shape="rect" id="Node000010" href="$w_function_entity_8cpp.html" title="Implementation of the FunctionEntity class." alt="" coords="394,153,532,178"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="411,113,452,150,448,154,407,117"/>
+<area shape="poly" id="edge14_Node000011_Node000003" title=" " alt="" coords="490,107,166,156,165,151,489,102"/>
+<area shape="poly" id="edge15_Node000011_Node000010" title=" " alt="" coords="538,116,482,154,479,150,535,111"/>
+<area shape="rect" id="Node000012" href="$w_line_drawer_8cpp.html" title="Implementation of the LineDrawer class." alt="" coords="556,153,677,178"/>
+<area shape="poly" id="edge16_Node000011_Node000012" title=" " alt="" coords="585,116,610,151,606,154,581,119"/>
+<area shape="poly" id="edge17_Node000011_Node000013" title=" " alt="" coords="613,108,726,150,724,155,612,113"/>
+<area shape="poly" id="edge25_Node000014_Node000004" title=" " alt="" coords="794,112,813,126,828,143,835,162,828,180,802,199,765,213,718,224,665,232,554,240,455,242,455,236,554,235,665,226,717,219,763,208,800,194,824,177,829,162,823,146,809,130,791,116"/>
+<area shape="poly" id="edge26_Node000014_Node000007" title=" " alt="" coords="687,106,320,158,319,152,686,101"/>
+<area shape="poly" id="edge27_Node000014_Node000013" title=" " alt="" coords="761,120,761,152,755,152,755,120"/>
+<area shape="rect" id="Node000015" href="$w_axis_entity_8hpp.html" title=" " alt="" coords="889,153,1003,178"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="805,108,915,150,913,155,803,113"/>
+<area shape="poly" id="edge22_Node000015_Node000004" title=" " alt="" coords="874,181,870,181,456,232,455,227,870,176,873,175"/>
+<area shape="rect" id="Node000016" href="$w_axis_entity_8cpp.html" title="Implementation of the AxisEntity class." alt="" coords="747,226,862,252"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="910,188,830,228,827,223,907,183"/>
+<area shape="rect" id="Node000017" href="$w_label_entity_8cpp.html" title="Implementation of the LabelEntity class." alt="" coords="886,226,1006,252"/>
+<area shape="poly" id="edge23_Node000015_Node000017" title=" " alt="" coords="949,194,949,226,943,226,943,194"/>
+<area shape="rect" id="Node000018" href="$w_notch_entity_8cpp.html" title="Implementation of the NotchEntity class." alt="" coords="1030,226,1153,252"/>
+<area shape="poly" id="edge24_Node000015_Node000018" title=" " alt="" coords="985,183,1068,223,1065,228,983,188"/>
 </map>

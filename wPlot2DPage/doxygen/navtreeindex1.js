@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"classw_plot2_d_1_1_axis_entity.html#a174b28a87a6ee144f3333f94d4f6dc80":[1,0,1,0,21],
+"classw_plot2_d_1_1_axis_entity.html#a174b28a87a6ee144f3333f94d4f6dc80":[2,0,1,0,21],
 "classw_plot2_d_1_1_axis_entity.html#a19d950749f75c9d89a75f6683c039f08":[1,0,1,0,7],
 "classw_plot2_d_1_1_axis_entity.html#a19d950749f75c9d89a75f6683c039f08":[2,0,1,0,7],
 "classw_plot2_d_1_1_axis_entity.html#a26ebbaa840c26f4e3017bfe5c2a084c5":[1,0,1,0,20],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "classw_plot2_d_1_1_legend_entity.html#a7190bce320a9449504d5d882ca3b36a7":[1,0,1,6,12],
 "classw_plot2_d_1_1_legend_entity.html#a7190bce320a9449504d5d882ca3b36a7":[2,0,1,6,12],
 "classw_plot2_d_1_1_legend_entity.html#a733ab39e237d26839f40e7cd6a6f2718":[1,0,1,6,6],
-"classw_plot2_d_1_1_legend_entity.html#a733ab39e237d26839f40e7cd6a6f2718":[2,0,1,6,6],
-"classw_plot2_d_1_1_legend_entity.html#aab263b6589a69aad7211fd56018ab97b":[1,0,1,6,5],
-"classw_plot2_d_1_1_legend_entity.html#aab263b6589a69aad7211fd56018ab97b":[2,0,1,6,5]
+"classw_plot2_d_1_1_legend_entity.html#a733ab39e237d26839f40e7cd6a6f2718":[2,0,1,6,6]
 };

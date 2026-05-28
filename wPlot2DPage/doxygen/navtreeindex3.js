@@ -1,5 +1,10 @@
 var NAVTREEINDEX3 =
 {
+"w_rotation_component_8cpp.html":[3,0,0,0,20],
+"w_rotation_component_8hpp.html":[3,0,0,0,21],
+"w_rotation_component_8hpp_source.html":[3,0,0,0,21],
+"w_scale_component_8cpp.html":[3,0,0,0,22],
+"w_scale_component_8hpp.html":[3,0,0,0,23],
 "w_scale_component_8hpp_source.html":[3,0,0,0,23],
 "w_thickness_component_8cpp.html":[3,0,0,0,24],
 "w_thickness_component_8hpp.html":[3,0,0,0,25],

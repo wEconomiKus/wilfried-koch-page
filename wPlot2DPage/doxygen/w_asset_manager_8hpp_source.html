@@ -28,7 +28,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="icon_64x64.png"/></td>
   <td id="projectalign">
-   <div id="projectname">wPlot2D<span id="projectnumber">&#160;version: 0.1.0</span>
+   <div id="projectname">wPlot2D<span id="projectnumber">&#160;version: 0.1.1</span>
    </div>
    <div id="projectbrief">A lightweight C++ library for clear and customizable 2D scientific plots.</div>
   </td>
@@ -129,29 +129,31 @@ $(function(){initNavTree('w_asset_manager_8hpp_source.html','',''); });
 <div class="line"><a id="l00056" name="l00056"></a><span class="lineno">   56</span></div>
 <div class="line"><a id="l00068" name="l00068"></a><span class="lineno">   68</span>            <span class="keywordtype">void</span> <a class="code hl_function" href="classw_engine_1_1_asset_manager.html#ad9a871af5f5681419c6e31791f33cc36">LoadFont</a>( <span class="keyword">const</span> std::string&amp; name, <span class="keyword">const</span> std::string&amp; fileName );</div>
 <div class="line"><a id="l00069" name="l00069"></a><span class="lineno">   69</span></div>
-<div class="line"><a id="l00076" name="l00076"></a><span class="lineno">   76</span>            sf::Font&amp; <a class="code hl_function" href="classw_engine_1_1_asset_manager.html#a7e84693eafc632120daad0bd248a5a16">getFont</a>( <span class="keyword">const</span> std::string&amp; name );</div>
-<div class="line"><a id="l00077" name="l00077"></a><span class="lineno">   77</span></div>
-<div class="line"><a id="l00083" name="l00083"></a><span class="lineno">   83</span>            <span class="keywordtype">void</span> <a class="code hl_function" href="classw_engine_1_1_asset_manager.html#ae77472b98e6ce66f5379ddc40a09e294">RemoveFont</a>( <span class="keyword">const</span> std::string&amp; name );</div>
-<div class="line"><a id="l00084" name="l00084"></a><span class="lineno">   84</span></div>
-<div class="line"><a id="l00088" name="l00088"></a><span class="lineno">   88</span>            <span class="keywordtype">void</span> <a class="code hl_function" href="classw_engine_1_1_asset_manager.html#aba3695651daa1eb58d7efc6edcd60036">debugPrintFonts</a>( ) <span class="keyword">const</span>;</div>
-<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>        <span class="keyword">private</span>:</div>
-<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span>            std::map&lt; std::string, sf::Font &gt; mFont;</div>
-<div class="line"><a id="l00091" name="l00091"></a><span class="lineno">   91</span></div>
-<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span>            <span class="keyword">template</span> &lt; <span class="keyword">typename</span> Map &gt;</div>
-<div class="line"><a id="l00106" name="l00106"></a><span class="lineno">  106</span>            <span class="keyword">static</span> <span class="keywordtype">void</span> EnsureExists( <span class="keyword">const</span> Map&amp; map, <span class="keyword">const</span> std::string&amp; name, <span class="keyword">const</span> std::string&amp; type );</div>
-<div class="line"><a id="l00107" name="l00107"></a><span class="lineno">  107</span>    };</div>
+<div class="line"><a id="l00089" name="l00089"></a><span class="lineno">   89</span>            <span class="keywordtype">void</span> <a class="code hl_function" href="classw_engine_1_1_asset_manager.html#ad9a871af5f5681419c6e31791f33cc36">LoadFont</a>( <span class="keyword">const</span> std::string&amp; name, <span class="keyword">const</span> std::vector&lt; std::string &gt;&amp; possiblePaths );</div>
+<div class="line"><a id="l00090" name="l00090"></a><span class="lineno">   90</span></div>
+<div class="line"><a id="l00097" name="l00097"></a><span class="lineno">   97</span>            sf::Font&amp; <a class="code hl_function" href="classw_engine_1_1_asset_manager.html#a7e84693eafc632120daad0bd248a5a16">getFont</a>( <span class="keyword">const</span> std::string&amp; name );</div>
+<div class="line"><a id="l00098" name="l00098"></a><span class="lineno">   98</span></div>
+<div class="line"><a id="l00104" name="l00104"></a><span class="lineno">  104</span>            <span class="keywordtype">void</span> <a class="code hl_function" href="classw_engine_1_1_asset_manager.html#ae77472b98e6ce66f5379ddc40a09e294">RemoveFont</a>( <span class="keyword">const</span> std::string&amp; name );</div>
+<div class="line"><a id="l00105" name="l00105"></a><span class="lineno">  105</span></div>
+<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>            <span class="keywordtype">void</span> <a class="code hl_function" href="classw_engine_1_1_asset_manager.html#aba3695651daa1eb58d7efc6edcd60036">debugPrintFonts</a>( ) <span class="keyword">const</span>;</div>
+<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span>        <span class="keyword">private</span>:</div>
+<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span>            std::map&lt; std::string, sf::Font &gt; mFont;</div>
+<div class="line"><a id="l00112" name="l00112"></a><span class="lineno">  112</span></div>
+<div class="line"><a id="l00126" name="l00126"></a><span class="lineno">  126</span>            <span class="keyword">template</span> &lt; <span class="keyword">typename</span> Map &gt;</div>
+<div class="line"><a id="l00127" name="l00127"></a><span class="lineno">  127</span>            <span class="keyword">static</span> <span class="keywordtype">void</span> EnsureExists( <span class="keyword">const</span> Map&amp; map, <span class="keyword">const</span> std::string&amp; name, <span class="keyword">const</span> std::string&amp; type );</div>
+<div class="line"><a id="l00128" name="l00128"></a><span class="lineno">  128</span>    };</div>
 </div>
-<div class="line"><a id="l00108" name="l00108"></a><span class="lineno">  108</span> </div>
-<div class="line"><a id="l00109" name="l00109"></a><span class="lineno">  109</span>}<span class="comment">//End of namespace wEngine</span></div>
-<div class="line"><a id="l00110" name="l00110"></a><span class="lineno">  110</span> </div>
-<div class="line"><a id="l00111" name="l00111"></a><span class="lineno">  111</span><span class="preprocessor">#endif</span></div>
+<div class="line"><a id="l00129" name="l00129"></a><span class="lineno">  129</span> </div>
+<div class="line"><a id="l00130" name="l00130"></a><span class="lineno">  130</span>}<span class="comment">//End of namespace wEngine</span></div>
+<div class="line"><a id="l00131" name="l00131"></a><span class="lineno">  131</span> </div>
+<div class="line"><a id="l00132" name="l00132"></a><span class="lineno">  132</span><span class="preprocessor">#endif</span></div>
 <div class="ttc" id="aclassw_engine_1_1_asset_manager_html_a045823e5d377a56f5fd4dd46541b9307"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#a045823e5d377a56f5fd4dd46541b9307">wEngine::AssetManager::operator=</a></div><div class="ttdeci">AssetManager &amp; operator=(const AssetManager &amp;)=delete</div></div>
 <div class="ttc" id="aclassw_engine_1_1_asset_manager_html_a4753f59760e062279b8919a769e75f0c"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#a4753f59760e062279b8919a769e75f0c">wEngine::AssetManager::AssetManager</a></div><div class="ttdeci">AssetManager()=default</div></div>
 <div class="ttc" id="aclassw_engine_1_1_asset_manager_html_a5176a772a1f3e2a2b35d1a5517da4b6f"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#a5176a772a1f3e2a2b35d1a5517da4b6f">wEngine::AssetManager::~AssetManager</a></div><div class="ttdeci">~AssetManager()=default</div></div>
-<div class="ttc" id="aclassw_engine_1_1_asset_manager_html_a7e84693eafc632120daad0bd248a5a16"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#a7e84693eafc632120daad0bd248a5a16">wEngine::AssetManager::getFont</a></div><div class="ttdeci">sf::Font &amp; getFont(const std::string &amp;name)</div><div class="ttdoc">Retrieves a reference to a previously loaded font.</div><div class="ttdef"><b>Definition</b> wAssetManager.cpp:29</div></div>
-<div class="ttc" id="aclassw_engine_1_1_asset_manager_html_aba3695651daa1eb58d7efc6edcd60036"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#aba3695651daa1eb58d7efc6edcd60036">wEngine::AssetManager::debugPrintFonts</a></div><div class="ttdeci">void debugPrintFonts() const</div><div class="ttdoc">Prints the list of loaded fonts to standard output.</div><div class="ttdef"><b>Definition</b> wAssetManager.cpp:42</div></div>
+<div class="ttc" id="aclassw_engine_1_1_asset_manager_html_a7e84693eafc632120daad0bd248a5a16"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#a7e84693eafc632120daad0bd248a5a16">wEngine::AssetManager::getFont</a></div><div class="ttdeci">sf::Font &amp; getFont(const std::string &amp;name)</div><div class="ttdoc">Retrieves a reference to a previously loaded font.</div><div class="ttdef"><b>Definition</b> wAssetManager.cpp:88</div></div>
+<div class="ttc" id="aclassw_engine_1_1_asset_manager_html_aba3695651daa1eb58d7efc6edcd60036"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#aba3695651daa1eb58d7efc6edcd60036">wEngine::AssetManager::debugPrintFonts</a></div><div class="ttdeci">void debugPrintFonts() const</div><div class="ttdoc">Prints the list of loaded fonts to standard output.</div><div class="ttdef"><b>Definition</b> wAssetManager.cpp:100</div></div>
 <div class="ttc" id="aclassw_engine_1_1_asset_manager_html_ad9a871af5f5681419c6e31791f33cc36"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#ad9a871af5f5681419c6e31791f33cc36">wEngine::AssetManager::LoadFont</a></div><div class="ttdeci">void LoadFont(const std::string &amp;name, const std::string &amp;fileName)</div><div class="ttdoc">Loads a font from file and stores it under a given name.</div><div class="ttdef"><b>Definition</b> wAssetManager.cpp:19</div></div>
-<div class="ttc" id="aclassw_engine_1_1_asset_manager_html_ae77472b98e6ce66f5379ddc40a09e294"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#ae77472b98e6ce66f5379ddc40a09e294">wEngine::AssetManager::RemoveFont</a></div><div class="ttdeci">void RemoveFont(const std::string &amp;name)</div><div class="ttdoc">Removes a previously loaded font from memory.</div><div class="ttdef"><b>Definition</b> wAssetManager.cpp:35</div></div>
+<div class="ttc" id="aclassw_engine_1_1_asset_manager_html_ae77472b98e6ce66f5379ddc40a09e294"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#ae77472b98e6ce66f5379ddc40a09e294">wEngine::AssetManager::RemoveFont</a></div><div class="ttdeci">void RemoveFont(const std::string &amp;name)</div><div class="ttdoc">Removes a previously loaded font from memory.</div><div class="ttdef"><b>Definition</b> wAssetManager.cpp:94</div></div>
 <div class="ttc" id="aclassw_engine_1_1_asset_manager_html_aed0db5d891944a59de60373c43df0bcd"><div class="ttname"><a href="classw_engine_1_1_asset_manager.html#aed0db5d891944a59de60373c43df0bcd">wEngine::AssetManager::AssetManager</a></div><div class="ttdeci">AssetManager(const AssetManager &amp;)=delete</div></div>
 <div class="ttc" id="anamespacew_engine_html"><div class="ttname"><a href="namespacew_engine.html">wEngine</a></div><div class="ttdef"><b>Definition</b> wColorComponent.cpp:9</div></div>
 </div><!-- fragment --></div><!-- contents -->

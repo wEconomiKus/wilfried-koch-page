@@ -1,5 +1,7 @@
 <map id="wGraphicsEntity.hpp" name="wGraphicsEntity.hpp">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,146,31"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="76,5,216,31"/>
 <area shape="rect" id="Node000002" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="5,79,146,105"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,46,78,79,73,79,73,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,44,89,80,86,77,122,40"/>
+<area shape="rect" id="Node000003" href="$w_plot2_d_8hpp.html" title="Main public include file for the wPlot2D library." alt="" coords="170,79,266,105"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,40,208,77,204,80,167,44"/>
 </map>

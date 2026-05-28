@@ -9,5 +9,5 @@ var searchData=
   ['linestylecomponent_6',['LineStyleComponent',['../classw_engine_1_1_line_style_component.html',1,'wEngine::LineStyleComponent'],['../classw_engine_1_1_line_style_component.html#af844599c6a565cbc3299758ea0577738',1,'wEngine::LineStyleComponent::LineStyleComponent()']]],
   ['links_7',['Links',['../index.html#links_sec',1,'']]],
   ['linspace_8',['linspace',['../classw_engine_1_1_math_utils.html#ad4b7c1604bab91b6f07e93be2ce73b0c',1,'wEngine::MathUtils']]],
-  ['loadfont_9',['LoadFont',['../classw_engine_1_1_asset_manager.html#ad9a871af5f5681419c6e31791f33cc36',1,'wEngine::AssetManager']]]
+  ['loadfont_9',['LoadFont',['../classw_engine_1_1_asset_manager.html#ad9a871af5f5681419c6e31791f33cc36',1,'wEngine::AssetManager::LoadFont(const std::string &amp;name, const std::string &amp;fileName)'],['../classw_engine_1_1_asset_manager.html#a5165592a4f4ae9ca921e3f0680ee939c',1,'wEngine::AssetManager::LoadFont(const std::string &amp;name, const std::vector&lt; std::string &gt; &amp;possiblePaths)']]]
 ];

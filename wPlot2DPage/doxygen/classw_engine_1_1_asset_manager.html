@@ -28,7 +28,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="icon_64x64.png"/></td>
   <td id="projectalign">
-   <div id="projectname">wPlot2D<span id="projectnumber">&#160;version: 0.1.0</span>
+   <div id="projectname">wPlot2D<span id="projectnumber">&#160;version: 0.1.1</span>
    </div>
    <div id="projectbrief">A lightweight C++ library for clear and customizable 2D scientific plots.</div>
   </td>
@@ -108,6 +108,8 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a5176a772a1f3e2a2b35d1a5517da4b6f" id="r_a5176a772a1f3e2a2b35d1a5517da4b6f"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5176a772a1f3e2a2b35d1a5517da4b6f">~AssetManager</a> ()=default</td></tr>
 <tr class="memitem:ad9a871af5f5681419c6e31791f33cc36" id="r_ad9a871af5f5681419c6e31791f33cc36"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ad9a871af5f5681419c6e31791f33cc36">LoadFont</a> (const std::string &amp;name, const std::string &amp;fileName)</td></tr>
 <tr class="memdesc:ad9a871af5f5681419c6e31791f33cc36"><td class="mdescLeft">&#160;</td><td class="mdescRight">Loads a font from file and stores it under a given name.  <br /></td></tr>
+<tr class="memitem:a5165592a4f4ae9ca921e3f0680ee939c" id="r_a5165592a4f4ae9ca921e3f0680ee939c"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a5165592a4f4ae9ca921e3f0680ee939c">LoadFont</a> (const std::string &amp;name, const std::vector&lt; std::string &gt; &amp;possiblePaths)</td></tr>
+<tr class="memdesc:a5165592a4f4ae9ca921e3f0680ee939c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Loads a font by trying multiple possible file paths until success.  <br /></td></tr>
 <tr class="memitem:a7e84693eafc632120daad0bd248a5a16" id="r_a7e84693eafc632120daad0bd248a5a16"><td class="memItemLeft" align="right" valign="top">sf::Font &amp;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#a7e84693eafc632120daad0bd248a5a16">getFont</a> (const std::string &amp;name)</td></tr>
 <tr class="memdesc:a7e84693eafc632120daad0bd248a5a16"><td class="mdescLeft">&#160;</td><td class="mdescRight">Retrieves a reference to a previously loaded font.  <br /></td></tr>
 <tr class="memitem:ae77472b98e6ce66f5379ddc40a09e294" id="r_ae77472b98e6ce66f5379ddc40a09e294"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="#ae77472b98e6ce66f5379ddc40a09e294">RemoveFont</a> (const std::string &amp;name)</td></tr>
@@ -233,7 +235,7 @@ Key features:</h3>
 </div>
 </div>
 <a id="ad9a871af5f5681419c6e31791f33cc36" name="ad9a871af5f5681419c6e31791f33cc36"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ad9a871af5f5681419c6e31791f33cc36">&#9670;&#160;</a></span>LoadFont()</h2>
+<h2 class="memtitle"><span class="permalink"><a href="#ad9a871af5f5681419c6e31791f33cc36">&#9670;&#160;</a></span>LoadFont() <span class="overload">[1/2]</span></h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -266,6 +268,50 @@ Key features:</h3>
   </table>
   </dd>
 </dl>
+
+</div>
+</div>
+<a id="a5165592a4f4ae9ca921e3f0680ee939c" name="a5165592a4f4ae9ca921e3f0680ee939c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a5165592a4f4ae9ca921e3f0680ee939c">&#9670;&#160;</a></span>LoadFont() <span class="overload">[2/2]</span></h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void wEngine::AssetManager::LoadFont </td>
+          <td>(</td>
+          <td class="paramtype">const std::string &amp;</td>          <td class="paramname"><span class="paramname"><em>name</em></span>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; std::string &gt; &amp;</td>          <td class="paramname"><span class="paramname"><em>possiblePaths</em></span>&#160;)</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Loads a font by trying multiple possible file paths until success. </p>
+<p>This function attempts to load the specified font (<span class="tt">name</span>) by iterating through several possible paths provided in <span class="tt">possiblePaths</span>. <br  />
+ It silences SFML's internal error messages during the process to avoid clutter.</p>
+<ul>
+<li>The function stops at the first successful load.</li>
+<li>If none of the paths work, it throws a std::runtime_error with the list of paths tested.</li>
+<li>The successfully loaded font is stored in the internal font map.</li>
+</ul>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">name</td><td>Logical name of the font (used as key in the font map). </td></tr>
+    <tr><td class="paramname">possiblePaths</td><td>List of file paths to try (in order of priority).</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="exception"><dt>Exceptions</dt><dd>
+  <table class="exception">
+    <tr><td class="paramname">std::runtime_error</td><td>if all paths fail to load the font.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section note"><dt>Note</dt><dd>This approach makes font loading robust across different directory structures, such as development (../Resources/Fonts/...) and distribution (../wPlot2D/Resources/Fonts/...). </dd></dl>
 
 </div>
 </div>

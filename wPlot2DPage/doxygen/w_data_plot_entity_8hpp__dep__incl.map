@@ -4,11 +4,13 @@
 <area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,42,95,81,92,76,149,38"/>
 <area shape="rect" id="Node000003" href="$w_graphics_entity_8hpp.html" title=" " alt="" coords="112,153,252,178"/>
 <area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,47,184,152,179,152,179,47"/>
-<area shape="rect" id="Node000005" href="$w_legend_entity_8hpp.html" title=" " alt="" coords="219,79,350,105"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="213,38,268,76,265,81,210,42"/>
-<area shape="rect" id="Node000004" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="112,226,252,252"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="184,194,184,226,179,226,179,194"/>
-<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="256,116,201,154,198,150,253,111"/>
-<area shape="rect" id="Node000006" href="$w_legend_entity_8cpp.html" title="Implementation of the LegendEntity class." alt="" coords="276,153,407,178"/>
-<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="305,115,334,151,330,154,301,118"/>
+<area shape="rect" id="Node000006" href="$w_legend_entity_8hpp.html" title=" " alt="" coords="219,79,350,105"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="213,38,268,76,265,81,210,42"/>
+<area shape="rect" id="Node000004" href="$w_graphics_entity_8cpp.html" title="Implementation of the GraphicsEntity class." alt="" coords="41,226,181,252"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="161,191,125,228,121,224,157,187"/>
+<area shape="rect" id="Node000005" href="$w_plot2_d_8hpp.html" title="Main public include file for the wPlot2D library." alt="" coords="206,226,302,252"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="206,187,243,224,240,228,203,191"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="256,116,201,154,198,150,253,111"/>
+<area shape="rect" id="Node000007" href="$w_legend_entity_8cpp.html" title="Implementation of the LegendEntity class." alt="" coords="276,153,407,178"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="305,115,334,151,330,154,301,118"/>
 </map>
